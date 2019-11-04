@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Willkommen auf der Webseite der Medienscouts am Markgraf-Georg-Friedrich Gymnasium in Kulmbach.
   Hier finden Sie Infos über aktuelle Projekte, wer wir sind, was wir machen und vieles mehr.
 baseurl: /
-url: https://mgf-medienscouts.github.io/website
+url: https://medienscouts24.wtf
 github_username:  medienscouts
 instagram_username: medienscouts
 
