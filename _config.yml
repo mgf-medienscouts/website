@@ -23,8 +23,8 @@ email: mgf-medienscouts@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Willkommen auf der Webseite der Medienscouts am Markgraf-Georg-Friedrich Gymnasium in Kulmbach.
   Hier findest du Infos über aktuelle Projekte, wer wir sind, was wir machen und vieles mehr.
-baseurl: ""
-url: https://mgf-medienscouts.github.io/website/
+baseurl: /
+url: https://mgf-medienscouts.github.io/website
 github_username:  medienscouts
 instagram_username: medienscouts
 
