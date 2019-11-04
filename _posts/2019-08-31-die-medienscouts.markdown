@@ -5,7 +5,7 @@ date:   2019-08-31 16:05:31 +0200
 ---
 
 {:refdef: style="text-align: center;"}
-![Medienscouts](/assets/Medienscouts-2018-22.jpg){: center-image }
+![Medienscouts]({{ site.baseurl }}/assets/Medienscouts-2018-22.jpg){: center-image }
 {: refdef}
 
 {:refdef: style="text-align: center;"}
